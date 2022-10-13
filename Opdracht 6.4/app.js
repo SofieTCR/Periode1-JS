@@ -13,6 +13,3 @@ function calculateMinutes(par) {
     console.log(result);
 }
 
-calculate(7, 12);
-multiplyByFive(10);
-calculateMinutes(120);
